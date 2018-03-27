@@ -1,0 +1,10 @@
+{
+    "manifest_version": 2,
+    "name": "Chrome Extension ES6 Import Test",
+    "version": "0.0.1",
+    "description": "Chrome Extension ES6 Import Test",
+    "author": "otiai10",
+    "background": {
+        "page": "src/html/background.html"
+    }
+}
